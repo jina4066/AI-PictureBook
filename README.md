@@ -1,4 +1,7 @@
 # AI-PictureBook
+Kotlin을 활용한 Android 앱 프로젝트
+
+
 Create picture books using OpenAI
 <p align="center">
   <img src="https://github.com/MobileComputing-2023/AI-PictureBook/assets/80878955/023a861d-f599-4aec-9d48-6d0967939784">
